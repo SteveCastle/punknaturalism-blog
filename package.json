@@ -1,0 +1,60 @@
+{
+  "name": "sunkware",
+  "description": "Sunkware Blog",
+  "version": "0.2.6",
+  "author": "Stephen Castle",
+  "dependencies": {
+    "bulma": "^0.7.0",
+    "gatsby": "^2.0.0",
+    "gatsby-image": "^2.0.10",
+    "gatsby-plugin-favicon": "^3.1.4",
+    "gatsby-plugin-netlify": "^2.0.0",
+    "gatsby-plugin-netlify-cms": "^3.0.0",
+    "gatsby-plugin-purgecss": "^2.4.0",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sass": "^2.0.1",
+    "gatsby-plugin-sharp": "^2.0.17",
+    "gatsby-plugin-sitemap": "^2.0.4",
+    "gatsby-plugin-typography": "^2.2.2",
+    "gatsby-remark-copy-linked-files": "^2.0.6",
+    "gatsby-remark-images": "^3.0.0",
+    "gatsby-remark-prismjs": "^3.1.3",
+    "gatsby-remark-relative-images": "^0.2.0",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-remark": "^2.1.15",
+    "gatsby-transformer-sharp": "^2.1.1",
+    "lodash": "^4.17.5",
+    "lodash-webpack-plugin": "^0.11.4",
+    "netlify-cms": "^2.1.1",
+    "node-sass": "^4.9.2",
+    "parcel-bundler": "^1.9.4",
+    "prismjs": "^1.15.0",
+    "prop-types": "^15.6.0",
+    "react": "16.7.0-alpha.2",
+    "react-dom": "16.7.0-alpha.2",
+    "react-helmet": "^5.2.0",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17",
+    "typography-theme-fairy-gates": "^0.15.11",
+    "typography-theme-grand-view": "^0.15.10",
+    "uuid": "^3.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "npm run develop",
+    "clean": "rimraf .cache public",
+    "build": "npm run clean && gatsby build",
+    "develop": "npm run clean && gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.4",
+    "rimraf": "^2.6.2"
+  }
+}
