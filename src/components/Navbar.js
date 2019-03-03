@@ -1,28 +1,15 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import github from '../img/github-icon.svg';
-import logo from '../img/logo.svg';
+import pn from '../img/pn.svg';
+import sunkware from '../img/sunkware.svg';
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
-    <div className="container center">
+    <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="Sunkware" style={{ width: '30px' }} />
+        <Link to="/" className="navbar-item" title="Home">
+          <img src={pn} alt="PunkNaturalism" style={{ width: '34px' }} />
         </Link>
-      </div>
-      <div className="navbar-start" />
-      <div className="navbar-end">
-        <a
-          className="navbar-item"
-          href="https://github.com/SteveCastle"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
       </div>
     </div>
   </nav>

@@ -6,28 +6,25 @@
 @import "bulma/sass/components/navbar.sass"
 @import "bulma/sass/layout/_all.sass"
 
+
+$bungalow-taupe: #cbbd9f;
+$curious-blue: #3f85b5;
+$dark-jungle-green: #1a251c;
+$kokoda: #7d7758;
+$blue-surf: #8fa9a8;
+$green-shade-wash: #43543b;
+$bright-nautilus: #255a6c;
+$farrago: #43716a;
+$harpy-brown: #4b3927;
+$garfield: #a6532d;
 /**
  * Add back the container background-color, border-radius, padding, margin
  * and overflow that we removed from <pre>.
  */
-.gatsby-highlight
-  border-radius: 0.3em;
-  margin: 0.5em 0;
-  background-color: rgb(45, 45, 45);
-  padding: 1em;
-
-/* Adjust the position of the line numbers */
-.gatsby-highlight pre[class*="language-"].line-numbers
-  padding-left: 2.8em;
-
-/**
- * If you only want to use line numbering
- */
-.gatsby-highlight pre[class*="language-"].line-numbers
-  padding: 0;
-  padding-left: 2.8em;
-  overflow: initial;
-
+body
+  background-color: $dark-jungle-green
+.navbar
+  background: none
 
 .content .taglist
   list-style: none
@@ -51,7 +48,7 @@
   max-width: 90px
 @media screen and (min-width: 660px)
   code[class*=language-], pre[class*=language-]
-    font-size: calc(8px + 2 * ((100vw - 320px) / 680));
+    font-size: calc(8px + 2 * ((100vw - 320px) / 680))
 @media screen and (max-width: 660px)
   code[class*=language-], pre[class*=language-]
-    font-size: calc(6px + 2 * ((100vw - 320px) / 680));
+    font-size: calc(6px + 2 * ((100vw - 320px) / 680))
