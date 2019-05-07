@@ -1,6 +1,5 @@
 import Typography from 'typography';
 import fairyGatesTheme from 'typography-theme-fairy-gates';
-import { NONAME } from 'dns';
 
 const colors = {
   bungalowTaupe: '#cbbd9f',

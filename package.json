@@ -34,6 +34,7 @@
     "react-dom": "16.7.0-alpha.2",
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.13",
+    "shortid": "^2.2.14",
     "typography": "^0.16.17",
     "typography-theme-fairy-gates": "^0.15.11",
     "typography-theme-grand-view": "^0.15.10",
