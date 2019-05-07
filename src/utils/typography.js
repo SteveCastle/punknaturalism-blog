@@ -2,21 +2,18 @@ import Typography from 'typography';
 import fairyGatesTheme from 'typography-theme-fairy-gates';
 
 const colors = {
-  bungalowTaupe: '#cbbd9f',
-  curiousBlue: '#3f85b5',
-  darkJungleGreen: '#1a251c',
-  kokoda: '#7d7758',
-  blueSurf: '#8fa9a8',
-  greenShadeWash: '#43543b',
-  brightNautilus: '#255a6c',
-  farrago: '#43716a',
-  harpyBrown: '#4b3927',
-  garfield: '#a6532d'
+  coolPink: '#cc3150',
+  ghostWhite: '#efdee4',
+  nightBlack: '#1f292f',
+  leafyGreen: '#00d1b2',
 };
 
-fairyGatesTheme.headerColor = colors.bungalowTaupe;
-fairyGatesTheme.bodyColor = colors.bungalowTaupe;
+fairyGatesTheme.headerColor = colors.coolPink;
+fairyGatesTheme.bodyColor = colors.ghostWhite;
 fairyGatesTheme.overrideThemeStyles = ({ rhythm }, options) => ({
+  blockquote: {
+    color: colors.ghostWhite
+  },
   a: {
     backgroundImage: 'none',
     textShadow: 'none'
