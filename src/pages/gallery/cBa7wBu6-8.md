@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for cBa7wBu6-8.jpg
 description: Write a description.
+previewImage: /img/cBa7wBu6-8.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos

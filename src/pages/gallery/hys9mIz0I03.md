@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for hys9mIz0I03.jpg
 description: Write a description.
+previewImage: /img/hys9mIz0I03.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos

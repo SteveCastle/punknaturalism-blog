@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for 69PZ_uGooK.jpg
 description: Write a description.
+previewImage: /img/69PZ_uGooK.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos

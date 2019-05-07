@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for NDROBaQCwg.jpg
 description: Write a description.
+previewImage: /img/NDROBaQCwg.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos

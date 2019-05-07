@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for Ldcd8BLuonw.jpg
 description: Write a description.
+previewImage: /img/Ldcd8BLuonw.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos

@@ -2,6 +2,7 @@
 templateKey: image-post
 title: Add Name for iE9vyi9d8A.jpg
 description: Write a description.
+previewImage: /img/iE9vyi9d8A.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
