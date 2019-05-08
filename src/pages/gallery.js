@@ -23,8 +23,9 @@ export default class IndexPage extends React.Component {
                 {posts.map(({ node: post }) => (
                   <div className="content" key={post.id}>
                     <Link className="has-text-primary" to={post.fields.slug}>
-                      <Img fluid={post.frontmatter.previewImage.childImageSharp.fluid} objectFit="cover"/>
+                      <Img fluid={post.frontmatter.previewImage.childImageSharp.fluid} objectFit="cover" alt={post.frontmatter.description} />
                     </Link>
+                    <p>{post.frontmatter.description}</p>
                   </div>
                 ))}
               </div>
@@ -59,6 +60,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             previewImage {
               childImageSharp {
                 fluid(maxWidth: 800, quality: 100) {

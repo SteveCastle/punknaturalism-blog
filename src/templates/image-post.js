@@ -26,6 +26,7 @@ export const ImagePostTemplate = ({
               {title}
             </h1>
             <PostContent content={content} />
+            <blockquote>{description}</blockquote>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
