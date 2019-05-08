@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for MzdqUlpVfRH.jpg
-description: Write a description.
+title: Dune vs. Human
+description: Two small figures are dwarfed by the massive Mesquite Sand Dunes in Death Valley National Park.
 previewImage: /img/MzdqUlpVfRH.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-11-02T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Death Valley National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/MzdqUlpVfRH.jpg)
+![Two small figures are dwarfed by the massive Mesquite Sand Dunes in Death Valley National Park.](/img/MzdqUlpVfRH.jpg)

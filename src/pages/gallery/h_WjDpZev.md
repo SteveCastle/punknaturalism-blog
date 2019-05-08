@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for h_WjDpZev.jpg
-description: Write a description.
+title: Mount Charleston Fire
+description: Smoke pours from a raging fire in the Spring Mountains outside of Las Vegas.
 previewImage: /img/h_WjDpZev.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2013-07-15T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - Mount Charleston
+  - forest fires
+  - Las Vegas
 ---
-![Dog wearing sunglasses with a radio.](/img/h_WjDpZev.jpg)
+![Smoke pours from a raging fire in the Spring Mountains outside of Las Vegas.](/img/h_WjDpZev.jpg)

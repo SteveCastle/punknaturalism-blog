@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for rrxPCugjB6C.jpg
-description: Write a description.
+title: Little Guy
+description: Cute campsite friend at Tuttle Campground in the eastern Sierra Nevada.
 previewImage: /img/rrxPCugjB6C.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2015-08-23T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - wildlife
 ---
-![Dog wearing sunglasses with a radio.](/img/rrxPCugjB6C.jpg)
+![Cute campsite friend at Tuttle Campground in the eastern Sierra Nevada.](/img/rrxPCugjB6C.jpg)

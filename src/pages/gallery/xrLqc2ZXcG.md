@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for xrLqc2ZXcG.jpg
-description: Write a description.
+title: Red Rock Climbers
+description: A climber swings from an overhanging rock while his partner rests below.
 previewImage: /img/xrLqc2ZXcG.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - Las Vegas
+  - Red Rock
+  - rock climbing
 ---
-![Dog wearing sunglasses with a radio.](/img/xrLqc2ZXcG.jpg)
+![A climber swings from an overhanging rock while his partner rests below.](/img/xrLqc2ZXcG.jpg)

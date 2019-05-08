@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for LUsGhngz-kd.jpg
-description: Write a description.
+title: Highlands of Wyoming
+description: Snow remaining in to the late summer of the Wyoming highlands.
 previewImage: /img/LUsGhngz-kd.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2010-08-30T15:04:10.000Z
 tags:
   - photos
   - nature
 ---
-![Dog wearing sunglasses with a radio.](/img/LUsGhngz-kd.jpg)
+![Highlands of Wyoming.](/img/LUsGhngz-kd.jpg)

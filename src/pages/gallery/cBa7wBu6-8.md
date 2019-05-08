@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for cBa7wBu6-8.jpg
-description: Write a description.
+title: Golden Gate Bridge
+description: A VW bus passes in front of the famed Golden Gate Bridge.
 previewImage: /img/cBa7wBu6-8.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-09-17T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - urban
+  - National Parks
+  - Golden Gate Bridge National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/cBa7wBu6-8.jpg)
+![The Golden Gate Bridge.](/img/cBa7wBu6-8.jpg)

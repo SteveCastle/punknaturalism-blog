@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for N33fe4iyc6.jpg
-description: Write a description.
+title: Fishermans Wharf
+description: A peaceful bayside scene at Fishermans Wharf in San Francisco.
 previewImage: /img/N33fe4iyc6.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - urban
+  - ocean
 ---
-![Dog wearing sunglasses with a radio.](/img/N33fe4iyc6.jpg)
+![A peaceful bayside scene at Fishermans Wharf in San Francisco.](/img/N33fe4iyc6.jpg)

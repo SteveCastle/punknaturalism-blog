@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for u5Y2cuRMjq.jpg
-description: Write a description.
+title: Sand and Stone
+description: A distressed and waving landscape of stone overlooking the Death Valley basin.
 previewImage: /img/u5Y2cuRMjq.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Death Valley National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/u5Y2cuRMjq.jpg)
+![A distressed and waving landscape of stone overlooking the Death Valley basin.](/img/u5Y2cuRMjq.jpg)

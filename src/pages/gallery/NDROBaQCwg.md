@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for NDROBaQCwg.jpg
-description: Write a description.
+title: Fisherman
+description: A fisherman takes a break along the Colorado River a few miles south of the Hoover Dam.
 previewImage: /img/NDROBaQCwg.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-11-25T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - river
 ---
-![Dog wearing sunglasses with a radio.](/img/NDROBaQCwg.jpg)
+![A fisherman sits along the Colorado River.](/img/NDROBaQCwg.jpg)

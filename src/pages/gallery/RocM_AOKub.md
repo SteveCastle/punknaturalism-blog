@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for RocM_AOKub.jpg
-description: Write a description.
+title: Emerald Hills
+description: Supernaturally green hills of North East Washington near the Canadian border.
 previewImage: /img/RocM_AOKub.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - farms
 ---
 ![Dog wearing sunglasses with a radio.](/img/RocM_AOKub.jpg)

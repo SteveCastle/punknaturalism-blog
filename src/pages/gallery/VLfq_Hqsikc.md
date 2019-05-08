@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for VLfq_Hqsikc.jpg
-description: Write a description.
+title: Old Faithful
+description: Old Faithful erupts on schedule in Yellowstone National Park.
 previewImage: /img/VLfq_Hqsikc.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2010-08-18T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Yellowstone National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/VLfq_Hqsikc.jpg)
+![Old Faithful erupts on schedule in Yellowstone National Park.](/img/VLfq_Hqsikc.jpg)

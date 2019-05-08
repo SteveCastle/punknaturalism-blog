@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for 77Wz7B2UBBv.jpg
-description: Write a description.
+title: Feisty Buffalo
+description: A buffalo is confronted by a park ranger at Yellowstone National Park.
 previewImage: /img/77Wz7B2UBBv.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2010-08-25T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Yellowstone National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/77Wz7B2UBBv.jpg)
+![A buffalo in the parking lot at Yellowstone.](/img/77Wz7B2UBBv.jpg)

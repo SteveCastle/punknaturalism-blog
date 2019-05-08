@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for HBYGZpCRh1.jpg
-description: Write a description.
+title: Sun Lakes - Dry Falls
+description: Panorama view from visitors center of Sun Lakes- Dry Falls State Park.
 previewImage: /img/HBYGZpCRh1.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-05-30T15:04:10.000Z
 tags:
   - photos
   - nature
+  - geology
 ---
-![Dog wearing sunglasses with a radio.](/img/HBYGZpCRh1.jpg)
+![Panorama view from visitors center of Sun Lakes- Dry Falls State Park.](/img/HBYGZpCRh1.jpg)

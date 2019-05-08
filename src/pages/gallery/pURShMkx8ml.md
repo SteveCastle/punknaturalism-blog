@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for pURShMkx8ml.jpg
-description: Write a description.
+title: Snake River in Wyoming
+description: A fast flowing Snake River just south of Jackson, WY.
 previewImage: /img/pURShMkx8ml.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2010-08-25T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - rivers
 ---
-![Dog wearing sunglasses with a radio.](/img/pURShMkx8ml.jpg)
+![A fast flowing Snake River just south of Jackson, WY](/img/pURShMkx8ml.jpg)

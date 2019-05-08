@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for ShUcj8WKLu.jpg
-description: Write a description.
+title: Dog
+description: A dog with stunning eyes displays heterochromia at a farm in north eastern Washington state.
 previewImage: /img/ShUcj8WKLu.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-05-30T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - dogs
 ---
-![Dog wearing sunglasses with a radio.](/img/ShUcj8WKLu.jpg)
+![A dog with stunning eyes displays heterochromia at a farm in north eastern Washington state.](/img/ShUcj8WKLu.jpg)

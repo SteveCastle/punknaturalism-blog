@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for hys9mIz0I03.jpg
-description: Write a description.
+title: Death Valley Sunset
+description: A blazing sun sets over the Mesquite Sand Dunes of Death Valley.
 previewImage: /img/hys9mIz0I03.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-11-02T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Death Valley National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/hys9mIz0I03.jpg)
+![A blazing sun sets over the Mesquite Sand Dunes of Death Valley.](/img/hys9mIz0I03.jpg)

@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for C9up3kLgxni.jpg
-description: Write a description.
+title: Coyote in Death Valley National Park
+description: A coyote watches from the side of the road in Death Valley National Park
 previewImage: /img/C9up3kLgxni.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2019-01-12T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - wild life
+  - National Parks
+  - Death Valley National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/C9up3kLgxni.jpg)
+![A coyote watches from the side of the road in death valley national park.](/img/C9up3kLgxni.jpg)

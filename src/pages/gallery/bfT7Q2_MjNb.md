@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for bfT7Q2_MjNb.jpg
-description: Write a description.
+title: Hidden Lake
+description: Hidden Lake in Glacier National Park.
 previewImage: /img/bfT7Q2_MjNb.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2010-08-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - National Parks
+  - Glacier National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/bfT7Q2_MjNb.jpg)
+![Hidden Lake in Glacier National Park.](/img/bfT7Q2_MjNb.jpg)

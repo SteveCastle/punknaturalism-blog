@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for 3iCjYdrKyYJ.jpg
-description: Write a description.
+title: Lava Flow From Above
+description: A lava flow from atop one of the Kelbaker Cone Volcanos.
 previewImage: /img/3iCjYdrKyYJ.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-11-02T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - geology
+  - Mojave Desert
 ---
-![Dog wearing sunglasses with a radio.](/img/3iCjYdrKyYJ.jpg)
+![Lava flow as seen from above.](/img/3iCjYdrKyYJ.jpg)

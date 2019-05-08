@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for 1lDn5RFub5e.jpg
-description: Write a description.
+title: Painted Rock at Mount Whitney
+description: A painted rock near the entrance to Mount Whitney.
 previewImage: /img/1lDn5RFub5e.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2015-08-23T15:04:10.000Z
 tags:
   - photos
   - nature
+  - Sierra Nevada
 ---
-![Dog wearing sunglasses with a radio.](/img/1lDn5RFub5e.jpg)
+![A painted rock near the entrance to Mt. Whitney](/img/1lDn5RFub5e.jpg)

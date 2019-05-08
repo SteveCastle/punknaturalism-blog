@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for TOYJaGtCBmd.jpg
-description: Write a description.
+title: Mojave Sunset
+description: Sun washes out the distant mountains in the Mojave National Preserve.
 previewImage: /img/TOYJaGtCBmd.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-10-01T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - sunset
+  - Mojave Desert
 ---
-![Dog wearing sunglasses with a radio.](/img/TOYJaGtCBmd.jpg)
+![Sun washes out the distant mountains in the Mojave National Preserve.](/img/TOYJaGtCBmd.jpg)

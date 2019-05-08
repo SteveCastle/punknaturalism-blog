@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for u-15BQidSQj.jpg
-description: Write a description.
+title: Busy Bee
+description: A bee goes about his business visiting the flowers of Great Basin National Park.
 previewImage: /img/u-15BQidSQj.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2018-08-12T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - wildlife
+  - National Parks
+  - Great Basin National Park
 ---
-![Dog wearing sunglasses with a radio.](/img/u-15BQidSQj.jpg)
+![A bee goes about his business visiting the flowers of Great Basin National Park.](/img/u-15BQidSQj.jpg)

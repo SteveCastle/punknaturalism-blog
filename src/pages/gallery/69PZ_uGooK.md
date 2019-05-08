@@ -1,11 +1,11 @@
 ---
 templateKey: image-post
-title: Add Name for 69PZ_uGooK.jpg
-description: Write a description.
+title: Mount Rainier
+description: Mount Rainier as seen from a plane.
 previewImage: /img/69PZ_uGooK.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-30-05T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - mountains
 ---
-![Dog wearing sunglasses with a radio.](/img/69PZ_uGooK.jpg)
+![Mount Ranier as seen from a plane.](/img/69PZ_uGooK.jpg)

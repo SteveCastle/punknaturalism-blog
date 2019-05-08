@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for 0CVHAinX3mP.jpg
-description: Write a description.
+title: Vaillancourt Fountain
+description: Vaillancourt Fountain in San Francisco in Embarcadero Plaza .
 previewImage: /img/0CVHAinX3mP.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-09-17T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - urban
+  - San Francisco
 ---
-![Dog wearing sunglasses with a radio.](/img/0CVHAinX3mP.jpg)
+![Vaillancourt Fountain.](/img/0CVHAinX3mP.jpg)

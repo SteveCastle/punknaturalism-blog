@@ -1,11 +1,13 @@
 ---
 templateKey: image-post
-title: Add Name for _vcYHlpHk7P.jpg
-description: Write a description.
+title: Bryce Canyon Hoodoos
+description: Bryce Canyon Hoodoos
 previewImage: /img/_vcYHlpHk7P.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2018-03-31T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - geology
+  - national parks
+  - Bryce Canyon
 ---
-![Dog wearing sunglasses with a radio.](/img/_vcYHlpHk7P.jpg)
+![Bryce Canyon Hoodoos.](/img/_vcYHlpHk7P.jpg)

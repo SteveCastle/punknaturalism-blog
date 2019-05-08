@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for YMzBTdznls.jpg
-description: Write a description.
+title: Seattle Skyline
+description: Mount Rainier looms in the background of the Seattle skyline.
 previewImage: /img/YMzBTdznls.jpg
 date: 2018-12-03T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - urbann
+  - mountains
 ---
-![Dog wearing sunglasses with a radio.](/img/YMzBTdznls.jpg)
+![Mount Rainier looms in the background of the Seattle skyline.](/img/YMzBTdznls.jpg)

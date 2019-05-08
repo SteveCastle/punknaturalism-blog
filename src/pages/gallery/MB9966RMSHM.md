@@ -1,11 +1,12 @@
 ---
 templateKey: image-post
-title: Add Name for MB9966RMSHM.jpg
-description: Write a description.
+title: Trains of Nevada
+description: A train passes through a desolate Nevada wilderness.
 previewImage: /img/MB9966RMSHM.jpg
-date: 2018-12-03T15:04:10.000Z
+date: 2017-11-25T15:04:10.000Z
 tags:
   - photos
-  - nature
+  - Mojave Desert
+  - trains
 ---
-![Dog wearing sunglasses with a radio.](/img/MB9966RMSHM.jpg)
+![Train engine in nevada.](/img/MB9966RMSHM.jpg)
